@@ -15,7 +15,7 @@ import org.junit.runner.RunWith;
 
 		features = "src/test/resources/features" ,
 		glue = "stepdefinitions" ,
-		tags = "@ahmet" ,
+		tags = "@wip" ,
 		dryRun = false //true olduğunda  sadece eksik adımları verir ve buradan koyalayıp yazabiliriz.
 )
 
