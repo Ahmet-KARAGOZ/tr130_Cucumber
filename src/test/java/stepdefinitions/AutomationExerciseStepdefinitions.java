@@ -15,6 +15,7 @@ public class AutomationExerciseStepdefinitions {
 	@Given("user sign up linkine tiklar")
 	public void user_sign_up_linkine_tiklar() {
 		automationPage.signUpLinki.click();
+
 	}
 
 	@Given("signUp butonuna basar")
