@@ -2,6 +2,8 @@
  #user story ile aynı seviyede kullanılır. birden fazla test case içerebilir.
 Feature: US1001 Kullanici phone icin arama yapabilmeli
   #Test case karşılık gelir.
+
+  @smoke
   Scenario:TC01 phone icin aram yapar
     Given kullanici Testotomasyon sayfasina gider
     And phone icin arama yapar

@@ -1,5 +1,5 @@
 Feature: US1007 Sauce demo alısveris sepeti testi
-
+@e2e
   Scenario: TC15 Kullanıcı sectigi urunu sepete ekleyebilmeli
     Given kullanici "sauceUrl" anasayfaya gider
     And 2 saniye bekler

@@ -1,5 +1,5 @@
 Feature: US1004 Kullanıcı gecerli bilgilerle sisteme giris yapabilmeli
-
+@e2e
   Scenario: TC10 gecerli username ve password ile sisteme giris yapabilmeli
     Given kullanici "toUrl" anasayfaya gider
     Then account linkine tıklar
